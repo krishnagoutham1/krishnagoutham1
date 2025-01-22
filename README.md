@@ -34,27 +34,24 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a kna
 ---
 
 ## 🚀 Featured Projects
-### [ECOMART](https://github.com/your-username/ECOMART)
-An e-commerce platform for buying and selling products with modern UI/UX design.
 
-### [Fundraising Platform](https://github.com/your-username/fundraising-platform)
+### [Fundraising Platform](https://github.com/krishnagoutham1/charity)
 A web app to raise funds for children’s welfare. Focused on clean UI and effective functionality.
 
-### [Instagram Clone](https://github.com/your-username/instagram-clone)
+### [Instagram Clone](https://github.com/krishnagoutham1/insta-share)
 A modern Instagram-like platform with light/dark theme support and extensive customizations.
 
 ---
 
 ## 🌱 Currently Learning
 - **Next.js** for server-side rendering and SEO optimization.
-- **Zustand** for state management in React.
 - **Sequelize** for ORM in Node.js applications.
 - **AWS** to enhance cloud computing skills.
 
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [krishnagoutham1714@example.com](mailto:krishnagoutham1714@example.com)
+- **Email**: [krishnagoutham1714@gmail.com](mailto:krishnagoutham1714@gmail.com)
 - **LinkedIn**: [linkedin.com/in/krishnagoutham1](https://linkedin.com/in/krishnagoutham1)
 - **Portfolio**: [KrishnaGoutham.com](https://krishnagoutham.netlify.app)
 
